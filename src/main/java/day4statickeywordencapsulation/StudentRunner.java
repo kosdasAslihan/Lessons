@@ -20,5 +20,6 @@ public class StudentRunner {
 
         Student std2 = new Student();
         System.out.println(std2.getStdId()); //TH202201
+        
     }
 }
