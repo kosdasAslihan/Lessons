@@ -1,6 +1,5 @@
-package day5collections;
+package day5abstractioncollections;
 
-import java.util.LinkedHashSet;
 import java.util.LinkedList;
 
 public class LinkedList01 {
@@ -61,6 +60,8 @@ public class LinkedList01 {
 
         /* LinkedList<String> myList = new LinkedList<>();
         myList.pop(); //NoSuchElementException attı çünkü LinkedList boş */
+
+        //31. derse başlanacak
 
     }
 }
