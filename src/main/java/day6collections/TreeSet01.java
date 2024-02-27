@@ -50,5 +50,7 @@ public class TreeSet01 {
         Long end2 = LocalTime.now().toNanoOfDay();
 
         System.out.println(end2-end1);
+
+        //32. derse baslanacak
     }
 }
