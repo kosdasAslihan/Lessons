@@ -1,10 +1,10 @@
-package day8maps;
+package day9iterators;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.ListIterator;
 
-public class Iterators {
+public class Iterators01 {
 
     public static void main(String[] args) {
 
@@ -30,6 +30,6 @@ public class Iterators {
             itr.set(el + "!");
         }
         System.out.println(myList); //[Z!, K!, A!, J!, M!]
-
+        
     }
 }
